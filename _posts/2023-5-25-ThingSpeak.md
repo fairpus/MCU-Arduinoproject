@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 心跳血氧偵測器
+title: ThingSpeak實作
 author: [Sung-Ping Chen]
 category: [Lecture]
 tags: [jekyll, ai]
