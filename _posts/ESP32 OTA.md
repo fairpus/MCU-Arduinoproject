@@ -1,20 +1,22 @@
 ---
 layout: post
-title: 藍牙遙控機器人實作
-author: [Richard Kuo]
+title: Innovation Project Proposal
+author: [Sung-Ping Chen]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-This project is to implement a bluetooth remote controlled robotcar.
+This homework is to specify a Future Home application and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
 
 ---
+## 成果展示圖
 
-
-### 系統方塊圖
-![](https://github.com/fairpus/MCU-Arduinoproject/blob/c0a5413337b0109f4e53203bc6ab5e65a75184b9/images/homework%20robot.jpg?raw=true)
+![](https://github.com/fairpus/MCU-Arduinoproject/blob/main/images/tmp_Screenshot_2023-05-04-20-30-03-669_com.android.chrome3434808428947452044.jpg?raw=true)
 
 <br>
 <br>
+
 
 *This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
+
+
