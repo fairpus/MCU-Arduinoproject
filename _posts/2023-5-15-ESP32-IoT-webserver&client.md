@@ -14,6 +14,8 @@ tags: [jekyll, ai]
 ![](https://github.com/fairpus/MCU-Arduinoproject/blob/main/images/ESP32-IoT-webserver%26client_page-0001.jpg?raw=true)
 
 ##Client code
+
+""
 // Webclient to read HTU21DF and send data to Webserver
 #include <WiFi.h>
 #include <WiFiClient.h>
@@ -103,8 +105,11 @@ void loop() {
   //system_deep_sleep(1 * 60 * 1000000);
   delay(1*60*1000);
 }
+""
 
 ##Serve code
+
+""
 //
 // ESP32 Webserver to receive data from Webclients
 // To use a web browser to open IP address of this webserver 
@@ -302,6 +307,7 @@ void setup() {
 void loop() {
   server.handleClient();
 }
+""
 
 ### 手機成果圖(Serve)
 ![](https://github.com/fairpus/MCU-Arduinoproject/blob/main/images/tmp_Screenshot_2023-05-04-22-00-22-418_com.android.chrome7173030717357315761(1).jpg?raw=true)
