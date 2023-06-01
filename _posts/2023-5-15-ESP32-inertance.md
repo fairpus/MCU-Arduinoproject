@@ -5,7 +5,7 @@ author: [Sung-Ping Chen]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
-
+觀察陀螺儀的運作原理
 
 
 ---
