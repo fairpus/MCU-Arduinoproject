@@ -6,7 +6,7 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-This project is to implement a bluetooth remote controlled robotcar.
+操控兩MSP32，用來理解伺服器與客戶端的關係
 
 ---
 ###系統方塊圖
