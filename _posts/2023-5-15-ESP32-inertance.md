@@ -16,7 +16,7 @@ tags: [jekyll, ai]
 
 ##程式碼
 
-""
+"""
 /* Copyright (C) 2012 Kristian Lauszus, TKJ Electronics. All rights reserved.
  This software may be distributed and modified under the terms of the GNU
  General Public License version 2 (GPL2) as published by the Free Software
@@ -194,7 +194,7 @@ void loop() {
   Serial.print("\r\n");
   delay(2);
 }
-""
+"""
 
 ## 成果展示圖
 
