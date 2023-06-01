@@ -5,7 +5,7 @@ author: [Sung-Ping Chen]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
-
+利用血檢測儀
 
 ---
 ###程式碼
