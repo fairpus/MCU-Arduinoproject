@@ -11,6 +11,8 @@ This homework is to specify a Future Home application and describe the key featu
 ---
 ###程式碼
 ![](https://github.com/fairpus/MCU-Arduinoproject/blob/main/images/O2%20code.jpg?raw=true)
+###系統方塊圖
+![](https://github.com/fairpus/MCU-Arduinoproject/blob/main/images/Heartbeat-Oxygen-Detector_page-0001.jpg?raw=true)
 ###成果展示圖
 ![](https://github.com/fairpus/MCU-Arduinoproject/blob/main/images/O2%20picture.jpg?raw=true)
 <br>
