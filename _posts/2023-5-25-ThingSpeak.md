@@ -6,7 +6,7 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-
+將DHT11的資料上傳到ThingSpeak，再利用ThingSpeak做出圖表
 
 ---
 ###系統方塊圖
