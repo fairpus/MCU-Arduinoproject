@@ -14,7 +14,7 @@ This project is to implement a bluetooth remote controlled robotcar.
 ![](https://github.com/fairpus/MCU-Arduinoproject/blob/main/images/ESP32-IoT-webserver%26client/ESP32-IoT-webserver%26client_page-0001.jpg?raw=true)
 
 
-### 手機成果圖(S)
+### 手機成果圖(Serve)
 ![](https://github.com/fairpus/MCU-Arduinoproject/blob/main/images/tmp_Screenshot_2023-05-04-22-00-22-418_com.android.chrome7173030717357315761(1).jpg?raw=true)
 
 <br>
