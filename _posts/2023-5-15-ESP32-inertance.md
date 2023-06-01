@@ -9,7 +9,13 @@ tags: [jekyll, ai]
 This homework is to specify a Future Home application and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
 
 ---
+###系統方塊圖
+
+![](https://github.com/fairpus/MCU-Arduinoproject/blob/main/images/IMU_page-0001.jpg?raw=true)
+
 ## 成果展示圖
+
+
 ![](https://github.com/fairpus/MCU-Arduinoproject/blob/main/images/66799.jpg?raw=true)
 <br>
 <br>
