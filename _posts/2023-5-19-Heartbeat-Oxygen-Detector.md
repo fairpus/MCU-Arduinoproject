@@ -6,7 +6,6 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-This homework is to specify a Future Home application and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
 
 ---
 ###程式碼
