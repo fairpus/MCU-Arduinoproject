@@ -16,7 +16,7 @@ tags: [jekyll, ai]
 ##程式碼
 
 
-"""
+```
 
 /*
  *  This sketch sends data via HTTP GET requests to thingspeak service every 10 minutes
@@ -132,7 +132,7 @@ void loop() {
   delay(1*60*1000);
 }
 
-"""
+```
 
 ###DHT11溫溼度圖表
 
