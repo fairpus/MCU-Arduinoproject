@@ -199,7 +199,6 @@ void loop() {
     noTone(Tonepin);
   }
 }
-![](https://github.com/fairpus/MCU-Arduinoproject/blob/main/images/O2%20code.jpg?raw=true)
 ###系統方塊圖
 ![](https://github.com/fairpus/MCU-Arduinoproject/blob/main/images/Heartbeat-Oxygen-Detector_page-0001.jpg?raw=true)
 
